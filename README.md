@@ -25,17 +25,17 @@ I am currently in **Week 7** of the program. This README will be updated each we
 - **Week 11**: Final coding challenges, assessments, and capstone project submission
 
 Each week includes:
-- ✅ **Labs** — focused exercises for practice
-- ⚡ **Challenges** — problem-solving tasks or small coding tests
-- 🛠 **Mini-projects** — larger hands-on builds for skill integration
+- **Labs** — focused exercises for practice
+- **Challenges** — problem-solving tasks or small coding tests
+- **Mini-projects** — larger hands-on builds for skill integration
 
 ---
 
-## 🚧 Current Assigned Project: Social Media Blog API
+## Current Assigned Project: Social Media Blog API
 
 This capstone REST API enables user registration, login, message creation, editing, deletion, and filtering by account.
 
-### 🧾 User Stories Implemented:
+### User Stories Implemented:
 - ✅ Register new accounts (`POST /register`)
 - ✅ User login (`POST /login`)
 - ✅ Create new message (`POST /messages`)
@@ -49,7 +49,7 @@ The project is tested with a graphical test runner and submitted through Revatur
 
 ---
 
-## 🚀 How to Navigate
+## How to Navigate
 
 Click into any week to view the Java labs and mini-projects. Most folders include well-commented code demonstrating core backend concepts.
 
@@ -66,7 +66,7 @@ Click into any week to view the Java labs and mini-projects. Most folders includ
 - Git & GitHub
 - Gitpod (cloud-based dev environment)
 
-## 🎯 Purpose
+## Purpose
 
 This repository documents my learning journey through Revature’s intensive backend Java curriculum. It serves as both a study log and portfolio showcase of the real coding work I've completed.
 
