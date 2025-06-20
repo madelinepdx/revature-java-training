@@ -6,7 +6,7 @@ The projects are organized by week, and each folder reflects hands-on exercises 
 
 ## 📚 Curriculum Overview
 
-I am currently in **Week 7** of the program. This README will be updated each week as I complete new content.
+I am currently in **Week 8** of the program. This README will be updated each week as I complete new content.
 
 ---
 
