@@ -4,11 +4,7 @@ This repository contains all labs, challenges, and mini-projects completed durin
 
 The projects are organized by week, and each folder reflects hands-on exercises focused on building core Java skills and backend development fundamentals.
 
-## 📚 Curriculum Overview
-
-I am currently in **Week 8** of the program. This README will be updated each week as I complete new content.
-
----
+--
 
 ## 🗂 Structure
 
@@ -31,7 +27,7 @@ Each week includes:
 
 ---
 
-## Current Assigned Project: Social Media Blog API
+## Assigned Project 1: Spring Social Media Blog API
 
 This capstone REST API enables user registration, login, message creation, editing, deletion, and filtering by account.
 
