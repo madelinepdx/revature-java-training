@@ -27,10 +27,15 @@ Each week includes:
 
 ---
 
-## Assigned Projects: 
+## 📁 Final Projects
 
-1. **Social Media Blog API**
-2. **Spring Social Media Blog API**
+### 🔹 [Social Media Blog API (Javalin)](https://github.com/madelinepdx/madelinepdx-pep-spring-project)
+- REST API built with Java and Javalin
+- Includes user registration, login, and message CRUD
+
+### 🔹 [Spring Social Media Blog API](https://github.com/madelinepdx/madelinepdx-pep-project)
+- Rebuild of the above project using Spring Boot & Spring Data JPA
+- Includes full implementation of all user stories and test cases
 
 ## How to Navigate
 
