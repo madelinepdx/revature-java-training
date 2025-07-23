@@ -27,23 +27,10 @@ Each week includes:
 
 ---
 
-## Assigned Project 1: Spring Social Media Blog API
+## Assigned Projects: 
 
-This capstone REST API enables user registration, login, message creation, editing, deletion, and filtering by account.
-
-### User Stories Implemented:
-- ✅ Register new accounts (`POST /register`)
-- ✅ User login (`POST /login`)
-- ✅ Create new message (`POST /messages`)
-- ✅ Get all messages (`GET /messages`)
-- ✅ Get message by ID (`GET /messages/{message_id}`)
-- ✅ Delete message by ID (`DELETE /messages/{message_id}`)
-- ✅ Update message by ID (`PATCH /messages/{message_id}`)
-- ✅ Get messages by user ID (`GET /accounts/{account_id}/messages`)
-
-The project is tested with a graphical test runner and submitted through Revature’s platform for review and approval.
-
----
+1. **Social Media Blog API**
+2. **Spring Social Media Blog API**
 
 ## How to Navigate
 
